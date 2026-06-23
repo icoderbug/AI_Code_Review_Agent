@@ -3,3 +3,11 @@ __pycache__/
 *.db
 uploads/
 *.pyc
+db_test.py
+pdf_test.py
+quality_test.py
+risk_test.py
+optimization_test.py
+test.py
+test1.py
+debug.py
