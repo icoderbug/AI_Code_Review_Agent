@@ -1,0 +1,4 @@
+from config import GEMINI_API_KEY, MODEL_INIT_ERROR
+
+print("KEY:", GEMINI_API_KEY[:10] if GEMINI_API_KEY else None)
+print("ERROR:", MODEL_INIT_ERROR)

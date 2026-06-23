@@ -1,0 +1,11 @@
+google-generativeai
+openai
+python-dotenv
+streamlit
+google-generativeai
+pylint
+flake8
+matplotlib
+pandas
+reportlab
+plotly
